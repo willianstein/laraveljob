@@ -18,6 +18,9 @@ class redis implements ShouldQueue
     private $user;
     public $tries = 3;
 
+
+    
+
     /**
      * Create a new job instance.
      *
